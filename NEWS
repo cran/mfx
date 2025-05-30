@@ -1,3 +1,9 @@
+Changes in Version 1.2-4  (2025-05-30)
+
+  o Removed file 'R/mfx-internal.R' which set the '.Random.seed'
+    as this is not needed and may have unwanted effects.
+
+
 Changes in Version 1.2-2  (2019-02-06)
 
   o Added a 'vignette' (Marginal Effects for Generalized Linear Models:

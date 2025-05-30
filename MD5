@@ -1,6 +1,6 @@
-e38e479f3675bae50216da9b2c2b47f7 *DESCRIPTION
+d257d224e5eb5612c89b8f8da928fb7f *DESCRIPTION
 8cff0ee9023e28acc907c2b10e2f4eb3 *NAMESPACE
-e0023004f9ea892bf7154b0d8ea919e8 *NEWS
+badd028b93eb8ceb62b573f2894e19a8 *NEWS
 6f11785782759d7d2a15d65aaba08520 *R/betamfx.R
 982dc8f83f9a0706523603a97cabfbb2 *R/betamfxest.R
 27ce6ef5d16c4f702925483d4f8554ee *R/betaor.R
@@ -12,7 +12,6 @@ bb6dd0087fd258f89ab3a5746719aca5 *R/logitmfx.R
 0202f82df190e65477b09443d07521db *R/logitor.R
 fc9a1479c85c580fe71ed1d3e72cab85 *R/logitorest.R
 34470776310af9dbfe9bb454c37bdce3 *R/meatHCbeta.R
-2077b2d6311c0bbca96ed6219198606f *R/mfx-internal.R
 3594f9fe21aab1d977f5ac45fb442f7b *R/negbinirr.R
 0d362029f50f8a58f867b30895c6bff3 *R/negbinirrest.R
 a6f2a5e671774f540faacf0a29790dd8 *R/negbinmfx.R
@@ -32,9 +31,9 @@ b57609763c6e92ed429ca0d940bd53d8 *R/print.poissonirr.R
 dc1a0e8dfd381d6f6cec07f1b74200b5 *R/print.probitmfx.R
 5f10c7384c737f7281e2c058ce7b2c1b *R/probitmfx.R
 b63f93a39ed119b138b03e68880f38d7 *R/probitmfxest.R
-79db2e89ef4de7cc95b00d4febe53719 *build/vignette.rds
+e84986cd4d560458a61c86138091be8a *build/vignette.rds
 ed9d077691c90520019fb8bfb1c6be55 *inst/doc/mfxarticle.Rnw
-a13754bf7b0dd21dc60d83f3636c8e24 *inst/doc/mfxarticle.pdf
+2e89cce709c4f8dba3904b5f089bfda2 *inst/doc/mfxarticle.pdf
 b2488ecc0f59b340e65c75150ef0b385 *man/betamfx.Rd
 a735490dbc94b39ffc0e61447c24b11f *man/betaor.Rd
 1e77bc37f7c31b21e927c698c0872e70 *man/logitmfx.Rd
